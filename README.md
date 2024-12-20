@@ -7,9 +7,9 @@
 
 ## Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flakes139&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21Scar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flakes139&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Scar&layout=compact&theme=radical)
 
 ---
 
