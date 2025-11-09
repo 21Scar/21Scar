@@ -2,7 +2,6 @@
 
 💾*I'm currently studying Software Engineering at University of Minho*💾
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonor.cunha_21/)
 ---
 
 ## Stats:
