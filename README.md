@@ -6,5 +6,6 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Scar&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=21Scar&theme=transparent)
+
 
